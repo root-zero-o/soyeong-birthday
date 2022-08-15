@@ -2,6 +2,8 @@
 
 ### 동생 소영이의 19번째 생일을 축하하기 위해 만든 작은 토이 프로젝트입니다.
 
+- [구경하기 !](https://soyeong-birthday.vercel.app/)
+- [개발후기 - 벨로그](https://velog.io/@yyeonggg/%EB%8F%99%EC%83%9D-%EC%83%9D%EC%9D%BC%EA%B8%B0%EB%85%90-%EB%9A%9D%EB%94%B1%EB%9A%9D%EB%94%B1-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - Skills : React.js, Next.js, Typescript, TailwindCSS
 - 개발 기간 : 2022. 8. 15. 하루!
 
