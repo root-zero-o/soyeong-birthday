@@ -1,34 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎉 Soyeong Birthday !
 
-## Getting Started
+### 동생 소영이의 19번째 생일을 축하하기 위해 만든 작은 토이 프로젝트입니다.
 
-First, run the development server:
+- Skills : React.js, Next.js, Typescript, TailwindCSS
+- 개발 기간 : 2022. 8. 15. 하루!
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Screenshot
+#### home
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+<img width="563" alt="home" src="https://user-images.githubusercontent.com/97326130/184641447-78d20af6-20b9-48ce-a4cd-ed69de59ba74.png">
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+#### 🎁Gift Timer
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- 바닐라 Javascript 문법을 이용해 타이머를 구현하였습니다.
 
-## Learn More
+![GIF 2022-08-15 오후 10-07-46](https://user-images.githubusercontent.com/97326130/184641537-d5d9ecae-a91c-4d7b-b96e-dffac89c4cf1.gif)
 
-To learn more about Next.js, take a look at the following resources:
+#### 📷Photo
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- ```react-webcam``` 라이브러리를 사용하여 사진을 찍을 수 있는 페이지를 구현하였습니다.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![GIF 2022-08-15 오후 10-15-06](https://user-images.githubusercontent.com/97326130/184641797-e390acac-d4ec-4cde-98fa-c938a8de922f.gif)
 
-## Deploy on Vercel
+#### 🎶Song
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- ```react-youtube``` 라이브러리를 사용하여 유튜브로 노래를 재생할 수 있는 페이지를 구현하였습니다.
+- 소영이가 좋아하는 NCT의 생일 축하 메시지를 추가하였습니다.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![GIF 2022-08-15 오후 10-19-18](https://user-images.githubusercontent.com/97326130/184642807-ef7d1890-7bfb-4ec7-919a-3974b48d43ba.gif)
